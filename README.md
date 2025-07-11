@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.freepik.com/free-vector/hand-drawn-anonymous-hacker-concept_2785061.htm#fromView=keyword&page=2&position=18&uuid=c1ccc78d-6249-4d4e-8f15-3749b4a6f5c1&query=Github+Character"  />
 
 ###
 
@@ -35,11 +35,16 @@
 
 <div align="left">
 
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
- <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+< a href="https://www.kaggle.com/m0hamedsaber" target="_blank" >
+<img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  />
+
+< a href="mmohamedm891@gmail.com" target="_blank" >
+ <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  
+<a href="https://www.linkedin.com/in/m0saber/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
+
 </div>
 
 ###
